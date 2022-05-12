@@ -9,44 +9,41 @@ Below is a list of some common emoji Unicodes with their CLDR short names:
  
 **CLDR Short Name	Unicode
 
-grinning face 
- 	U+1F600
-grinning face with big eyes 
- 	U+1F603
-grinning face with smiling eyes 
- 	U+1F604
-beaming face with smiling eyes 
- 	U+1F601
-grinning squinting face 
- 	U+1F606
-grinning face with sweat 
+|    | Second Header |
+| --------------- | ------------- |
+| grinning face    | U+1F600  |
+| grinning face with big eyes    | U+1F603  |
+| grinning face with smiling eyes | U+1F604  |
+| beaming face with smiling eyes  | U+1F601
+| grinning squinting face |U+1F606|
+| grinning face with sweat 
  	U+1F605
-rolling on the floor laughing 
+| rolling on the floor laughing 
  	U+1F923
-face with tears of joy 
+| face with tears of joy 
  	U+1F602
-slightly smiling face 
+| slightly smiling face 
  	U+1F642
-upside-down face 
- 	U+1F643
-winking face	U+1F609
-smiling face with smiling eyes 
+| upside-down face 
+  	U+1F643
+| winking face	U+1F609
+| smiling face with smiling eyes 
  	U+1F60A
-smiling face with halo 
+| smiling face with halo 
  	U+1F607
-smiling face with 3 hearts	U+1F970
-smiling face with heart-eyes	U+1F60D
-star-struck 
+|smiling face with 3 hearts	U+1F970
+|smiling face with heart-eyes	U+1F60D
+|star-struck 
  	U+1F929
-face blowing a kiss 
+|face blowing a kiss 
  	U+1F618
-kissing face 
+|kissing face 
  	U+1F617
-smiling face 
+|smiling face 
  	U+263A
-kissing face with closed eyes 
+|kissing face with closed eyes 
  	U+1F61A
-kissing face with smiling eyes 
+|kissing face with smiling eyes 
  	U+1F619
 face savoring food 
  	U+1F60B
