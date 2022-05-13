@@ -3,7 +3,19 @@
 There are multiple ways we can print the Emojis in Python. 
 
 
- 
+## Emoji Module: Installation
+
+Since Emoji Module is not an in-built library of Python, therefore we have to install this module in our system first
+open your terminal and use the following pip command ;
+> pip install emoji
+
+## Emoji Module: Implementation
+ We have the following two different functions in Emoji Module toimplement emojis and also convert an emoji into its short name :
+
+ - emojize() function
+ - demojize() function
+
+
  ## Below is a list of some common emoji Unicodes with their CLDR short names:
  
 |  CLDR Short Name  | Unicode |
